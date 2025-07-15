@@ -5,11 +5,6 @@ The log folder has tensorboard files which can be used to view stats while train
 The models folder has 2 trained models over 100k steps which can be imported and used.
 
 
-Reward over time during training:-
-![PPO algorithm](image.png)
-![A2C algorithm](<Screenshot from 2025-07-15 23-14-55.png>)
-
-
 Above code has been run in a virtual env created in linux os with the required libraries which are also mentioned in code.
 
 This also has a subproject called Lunar-Lander.
